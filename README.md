@@ -2,7 +2,7 @@
 # Yuri Di Domenico 💻❤
 
 ## Social:
-LinkedIn -> https://www.linkedin.com/in/yuri-di-domenico-218858150/
+LinkedIn → https://www.linkedin.com/in/yuri-di-domenico-218858150/
 
 
 
