@@ -1,6 +1,6 @@
 
-# Yuri Di Domenico 💻❤
-Jr. Fullstack Web Developer
+# Yuri Di Domenico 💻❤ Jr. Fullstack Web Developer
+
 
 ## Social:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) → https://www.linkedin.com/in/yuri-di-domenico-218858150/
