@@ -3,8 +3,8 @@
 
 
 ## Social:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) → https://www.linkedin.com/in/yuri-di-domenico-218858150/
-<br>Portfolio → https://yurididomenico-portfolio.netlify.app
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) "\t"→ https://www.linkedin.com/in/yuri-di-domenico-218858150/
+<br>Portfolio "\t"→ https://yurididomenico-portfolio.netlify.app
 
 
 
