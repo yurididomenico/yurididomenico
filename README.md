@@ -4,7 +4,7 @@
 
 ## Social:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) → https://www.linkedin.com/in/yuri-di-domenico-218858150/
-!Portfolio → https://yurididomenico-portfolio.netlify.app
+<br>Portfolio → https://yurididomenico-portfolio.netlify.app
 
 
 
