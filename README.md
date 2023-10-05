@@ -4,17 +4,14 @@
 
 ## Social:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) → https://www.linkedin.com/in/yuri-di-domenico-218858150/
-<br>Portfolio→ https://yurididomenico-portfolio.netlify.app
 
-
-
-
+Portfolio → https://yurididomenico-portfolio.netlify.app
 
 ## Competenze:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-|
+-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Vue](https://img.shields.io/badge/vue-%233fb27f.svg?style=for-the-badge&logo=vue&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23dd0031.svg?style=for-the-badge&logo=angular&logoColor=white)
