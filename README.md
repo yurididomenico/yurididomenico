@@ -1,5 +1,5 @@
 
-# Yuri Di Domenico - Jr. Fullstack Web Developer 💻❤
+# Yuri Di Domenico - Sviluppatore Web Frontend Junior  💻❤
 
 
 ## Social:
