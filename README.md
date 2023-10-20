@@ -1,5 +1,5 @@
 
-# Yuri Di Domenico - Sviluppatore Web Frontend Junior  💻❤
+# Yuri Di Domenico - Sviluppatore Web Frontend  💻❤
 
 
 ## Social:
