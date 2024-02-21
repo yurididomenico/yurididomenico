@@ -1,5 +1,5 @@
 
-# Yuri Di Domenico - Sviluppatore Web 💻❤
+# Yuri Di Domenico - Sviluppatore Web 💻
 
 
 ## Social:
