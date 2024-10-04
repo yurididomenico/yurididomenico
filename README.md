@@ -15,7 +15,7 @@
 ![Vue](https://img.shields.io/badge/vue-%233fb27f.svg?style=for-the-badge&logo=vue&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23dd0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-![Java]("https://img.shields.io/badge/Java-940000?style=flat-square&logo=java&logoColor=ffffff") 
+![Java](https://img.shields.io/badge/Java-940000?style=flat-square&logo=java&logoColor=ffffff) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FBFCFF.svg?style=for-the-badge&logo=laravel&logoColor=red) 
